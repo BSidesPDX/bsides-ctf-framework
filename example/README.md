@@ -1,6 +1,4 @@
-# <Category> <Point Value> - <Name of challenge>
-
-# <Challenge Category> <Point Value> - <Name>
+# [Challenge Category] [Point Value] - [Name]
 
 ## Description
 
