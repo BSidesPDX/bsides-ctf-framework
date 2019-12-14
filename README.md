@@ -1,4 +1,8 @@
 # BSidesPDX CTF <YEAR>
+  
+This repo serves as an example for the CTF Framework that BSidesPDX has been using for the last several years.
+
+Blog post on how to use this framework is at [https://www.tophertimzen.com/blog/BSidesPDXCTFFramework/](https://www.tophertimzen.com/blog/BSidesPDXCTFFramework/)
 
 ## BSidesPDX
 
